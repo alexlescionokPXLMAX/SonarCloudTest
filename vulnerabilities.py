@@ -1,6 +1,5 @@
 # exposed credentials
 credential = "0145VXki111b"
-password = "1011192sskksds((*&*))"
 
 # injection - Exploiting Eval() and Exec()
 compute = input('\nYour expression? => ')
